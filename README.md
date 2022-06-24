@@ -1,7 +1,8 @@
 # Car_No.Plate_Detection_Recognition
-**OpenCV based project **
+**OpenCV based project**
 
 --> This project is the system of a vehicle’s number plate detection and recognition. 
+
 
 --> **OBJECTIVE**
 
@@ -13,10 +14,12 @@ And all this will be done in a streamlit web-app.
 --> Google Colab notebook has been used to build the project and two open-source softwares are used to make the magic happen (namelyOpenCV and EasyOCR). 
 
 
+
 --> **REQUIREMENTS**
 
 First installation of the Python version of OpenCV (in your virtual environment) was done, and besides installing the OpenCVlibrary, thePython version of EasyOCR and imutils was installed in the workingenvironment. 
 Also, matplotlib and numpy library has been used. Then a streamlit web app was created for better user interface.
+
 
 
 --> **The steps followed while project creation were** :- 
@@ -31,6 +34,7 @@ systems.
 processing steps were performed. 
 7) In addition, the car’s license plate was also masked and enlarged. 
 8) And then a web-app is to be created, using streamlit for a better user-interface. 
+
 
 
 --> **USE OF SYSTEM**
