@@ -4,6 +4,7 @@
 --> This project is the system of a vehicle’s number plate detection and recognition. 
 
 
+
 --> **OBJECTIVE**
 
 To create a fully functioning application that will detect the number plate from the image of any vehicle and recognize it to give the output as the number plate digits and alphabets.
@@ -15,10 +16,12 @@ And all this will be done in a streamlit web-app.
 
 
 
+
 --> **REQUIREMENTS**
 
 First installation of the Python version of OpenCV (in your virtual environment) was done, and besides installing the OpenCVlibrary, thePython version of EasyOCR and imutils was installed in the workingenvironment. 
 Also, matplotlib and numpy library has been used. Then a streamlit web app was created for better user interface.
+
 
 
 
@@ -37,9 +40,11 @@ processing steps were performed.
 
 
 
+
 --> **USE OF SYSTEM**
 
 This project serves as a stepping stone for larger scale (and more advanced) computer vision projects, such as bulk extraction of car's license plate text from large image quantities and applying these concepts on video files or live feed.
+
 
 
 
@@ -84,7 +89,9 @@ This project serves as a stepping stone for larger scale (and more advanced) com
 
 
 
+
 --->> **STREAMLIT WEB APPLICATION OUTPUT :-**
+
 
 ![UserInterface-1](https://user-images.githubusercontent.com/82306590/175559735-514699b2-eb07-40dd-8185-479d72e0871d.JPG)
 
