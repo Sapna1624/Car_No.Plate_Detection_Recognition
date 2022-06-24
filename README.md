@@ -46,14 +46,7 @@ This project serves as a stepping stone for larger scale (and more advanced) com
 --->> **IMPLEMENTATION**
 
 
-
-
-
-
 ![Output_1](https://user-images.githubusercontent.com/82306590/175558588-681b6c74-9a0d-4842-bc67-684c086343e3.JPG)
-
-
-
 
 
 
@@ -65,16 +58,34 @@ This project serves as a stepping stone for larger scale (and more advanced) com
 
 
 
+![Output_4](https://user-images.githubusercontent.com/82306590/175559459-4f70d74e-5d6b-43c4-90a8-08acab8efcd2.JPG)
 
 
 
 
-![Output_4](https://user-images.githubusercontent.com/82306590/175558659-2a3acc3c-f4c6-4619-a5a8-004fe0ff6741.JPG)
+
+![Output_5](https://user-images.githubusercontent.com/82306590/175559490-e671fbd8-7390-4ea9-ad93-1b16026b1430.JPG)
 
 
-![Output_5](https://user-images.githubusercontent.com/82306590/175558683-b6aba965-0551-4b6d-844b-c5de2feae179.JPG)
 
 
-![Output_6](https://user-images.githubusercontent.com/82306590/175558708-d41ba630-3526-44b1-9018-480684813ab9.JPG)
+![Output_6](https://user-images.githubusercontent.com/82306590/175559503-75e3a8b0-83e5-4cc8-a167-a16c7fda3690.JPG)
 
+
+
+
+![Output_7](https://user-images.githubusercontent.com/82306590/175559527-5e7b2dc9-1493-4702-a769-b3b72b7c4fd1.JPG)
+
+
+
+
+![Output_8](https://user-images.githubusercontent.com/82306590/175559551-bdbeac9b-01d7-4fd5-8fbc-14b85ddd948b.JPG)
+
+
+
+--->> **STREAMLIT WEB APPLICATION OUTPUT :-**
+![UserInterface-1](https://user-images.githubusercontent.com/82306590/175559735-514699b2-eb07-40dd-8185-479d72e0871d.JPG)
+
+![UserInterface-2](https://user-images.![UserInterface-3](https://user-images.githubusercontent.com/82306590/175559761-d299622e-c7fd-4730-9d0f-fea55dbce5f7.JPG)
+githubusercontent.com/82306590/175559751-a97ecab4-3d3d-4250-b14e-53968c23d767.JPG)
 
