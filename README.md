@@ -45,3 +45,36 @@ This project serves as a stepping stone for larger scale (and more advanced) com
 
 --->> **IMPLEMENTATION**
 
+
+
+
+
+
+![Output_1](https://user-images.githubusercontent.com/82306590/175558588-681b6c74-9a0d-4842-bc67-684c086343e3.JPG)
+
+
+
+
+
+
+![Output_2](https://user-images.githubusercontent.com/82306590/175558618-38a9e131-83f1-43ef-8723-1cce992541c1.JPG)
+
+
+
+![Output_3](https://user-images.githubusercontent.com/82306590/175558632-59303ba1-d603-4488-b777-f8fbe1864fa4.JPG)
+
+
+
+
+
+
+
+![Output_4](https://user-images.githubusercontent.com/82306590/175558659-2a3acc3c-f4c6-4619-a5a8-004fe0ff6741.JPG)
+
+
+![Output_5](https://user-images.githubusercontent.com/82306590/175558683-b6aba965-0551-4b6d-844b-c5de2feae179.JPG)
+
+
+![Output_6](https://user-images.githubusercontent.com/82306590/175558708-d41ba630-3526-44b1-9018-480684813ab9.JPG)
+
+
