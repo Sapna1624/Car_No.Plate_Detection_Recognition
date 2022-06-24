@@ -83,9 +83,18 @@ This project serves as a stepping stone for larger scale (and more advanced) com
 
 
 
+
 --->> **STREAMLIT WEB APPLICATION OUTPUT :-**
+
 ![UserInterface-1](https://user-images.githubusercontent.com/82306590/175559735-514699b2-eb07-40dd-8185-479d72e0871d.JPG)
 
-![UserInterface-2](https://user-images.![UserInterface-3](https://user-images.githubusercontent.com/82306590/175559761-d299622e-c7fd-4730-9d0f-fea55dbce5f7.JPG)
-githubusercontent.com/82306590/175559751-a97ecab4-3d3d-4250-b14e-53968c23d767.JPG)
+
+
+![UserInterface-2](https://user-images.githubusercontent.com/82306590/175559913-0e73b1cc-722c-49bd-882e-49eec10a4a9f.JPG)
+
+
+
+![UserInterface-3](https://user-images.githubusercontent.com/82306590/175559931-83c6661c-d4d1-4975-a247-c01fc5a6721b.JPG)
+
+
 
